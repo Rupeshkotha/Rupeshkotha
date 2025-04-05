@@ -3,9 +3,8 @@
 </p>
 
 # 👋 Hi, I'm Rupesh! :
-🌟 Passionate about solving real-world problems using AI and software development.<br><br>
 🤝 Collaborative team player on innovation and continuous growth.<br><br>
-🔭 I’m currently working on Sign language generator<br><br>🌱 I’m currently learning TypeScript<br><br>📫 How to reach me roopeshkotha@gmail.com
+🔭 I’m currently working on Sign language generator<br><br>📫 How to reach me roopeshkotha@gmail.com
 
 
 ## 🌐 Socials:  
@@ -18,6 +17,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rupeshkotha&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Rupeshkotha&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshkotha&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rupeshkotha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
