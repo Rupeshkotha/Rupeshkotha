@@ -3,8 +3,7 @@
 </p>
 
 # 👋 Hi, I'm Rupesh! :
-🤝 Collaborative team player on innovation and continuous growth.<br><br>
-🔭 I’m currently working on Sign language generator<br><br>📫 How to reach me roopeshkotha@gmail.com
+
 
 
 ## 🌐 Socials:  
