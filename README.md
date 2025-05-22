@@ -3,6 +3,7 @@
 </p>
 
 # 👋 Hi, I'm Rupesh! :
+I'm a passionate and curious developer with a strong interest in machine learning, full-stack web development, and solving real-world problems with code. I enjoy building data-driven applications, exploring deep learning techniques, and working on open-source projects. Whether it's creating intelligent systems, crafting user-friendly frontends, or diving deep into backend logic, I'm always eager to learn and grow. Feel free to check out my repositories and connect with me
 
 
 
